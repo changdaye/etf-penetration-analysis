@@ -95,6 +95,14 @@ etf-penetration-website/
 2. 支持格式：`.xlsx`, `.xls`
 3. Excel 需包含列：`代码`、`名称`、`持有金额`
 
+
+> 💡 **提示**：`汇总持仓_示例.xlsx` 是从 **同花顺投资账本网页端** 直接导出的原始文件，未做任何修改，可以直接使用测试。
+> 
+> **同花顺投资账本导出步骤**：
+> 1. 访问 https://fund.10jqka.com.cn/
+> 2. 登录后进入"我的持仓"
+> 3. 点击"导出"按钮
+> 4. 选择"Excel"格式下载
 **English**
 1. Click or drag-drop to upload portfolio Excel file
 2. Supported formats: `.xlsx`, `.xls`
